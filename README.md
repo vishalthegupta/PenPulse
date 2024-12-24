@@ -21,7 +21,7 @@ Frontend: React.js, React Router
 Backend: Node.js, Express.js
 Database: MongoDB, Mongoose
 Authentication: JWT (JSON Web Tokens)
-CSS Framework: Bootstrap (or you can mention your choice of styling here)
+CSS Framework: Tailwind
 
 
 Conclusion
