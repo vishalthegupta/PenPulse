@@ -27,4 +27,4 @@ CSS Framework: Bootstrap (or you can mention your choice of styling here)
 Conclusion
 This MERN Stack web app offers a fully functional platform for users to interact with blog posts. It demonstrates a complete user authentication system using JWT and showcases full CRUD operations for blog posts. It's built to be easy to scale, maintain, and add more features in the future.
 
-Let me know if you need to further customize this README or have additional features you want to document!
+
